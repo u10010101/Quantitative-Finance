@@ -208,7 +208,7 @@ ui <- dashboardPage(
     dashboardBody(
         tabItems(
             tabItem(tabName = "desc",h1("本页面是《数量金融》课程大作业的代码可视化界面。请将本界面与提交的报告一同使用，谢谢！"),
-                    h1("编写本页面的全部代码请见："),
+                    h1("编写本页面的全部代码请见：https://github.com/u10010101/Quantitative-Finance/blob/main/app.R"),
                     h1("联系本人：u10010101@163.com"),h1("感谢使用！")),
             tabItem(tabName = "bs",page1),
             tabItem(tabName = "bitree",page2)
